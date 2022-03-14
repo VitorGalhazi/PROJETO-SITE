@@ -1,0 +1,11 @@
+body{
+    background-color: green;
+}
+header{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
